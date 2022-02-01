@@ -1,7 +1,7 @@
-Dino Runner in Python
+Python direto ao Ponto Runner
 =====================
 ```bash
 $ pip install -r requirements.txt
 $ python game.py 
 ```
-<img src="/images/screenshot1.png" width="500px">
+<img src="/images/python_runner.png" width="500px">
